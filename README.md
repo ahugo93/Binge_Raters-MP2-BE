@@ -73,4 +73,5 @@ Reviews
 - [@maxxlarss](https://www.github.com/maxxlarss)
 - [@appplus](https://www.github.com/appplus)
 - [@palmer2539](https://www.github.com/palmer2539)
+- [@JeffereyChasing](https://github.com/JeffereyChasing)
 
