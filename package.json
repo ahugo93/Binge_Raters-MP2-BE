@@ -1,0 +1,25 @@
+{
+  "name": "binge_raters-mp2-be",
+  "version": "1.0.0",
+  "description": "A full stack application for users to explore, add, and review their favorite TV Shows.  With this application users would be able to rate their favorite shows for others to see and find new binge worthy shows.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahugo93/Binge_Raters-MP2-BE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahugo93/Binge_Raters-MP2-BE/issues"
+  },
+  "homepage": "https://github.com/ahugo93/Binge_Raters-MP2-BE#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
