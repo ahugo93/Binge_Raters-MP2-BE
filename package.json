@@ -20,6 +20,8 @@
   "homepage": "https://github.com/ahugo93/Binge_Raters-MP2-BE#readme",
   "dependencies": {
     "dotenv": "^16.0.3",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "express-react-views": "^0.11.0",
+    "react": "^18.2.0"
   }
 }

@@ -11,6 +11,10 @@ app.get('/', (req, res) => {
   res.send('Welcome to Binge Raters!')
 })
 
+// SHOWS
+const showsController = require('./controllers/shows_controller.js')
+app.use('/shows, showsController')
+
 // LISTEN
 app.listen(PORT, () => {
   console.log('listening on port', PORT);
