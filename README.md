@@ -5,6 +5,12 @@ A full stack application for users to explore, add, and review their favorite TV
 With this application users would be able to rate their favorite shows for others to see and find new binge worthy shows.
 
 
+# How To Use
+
+You bring your opinion to our website, by looking up and reviewing the movies you want to review. We have have made it simple for the end-user, 
+to simple by typing the movie you are looking for in the search box, and will show the results. Once you find your movie you want, just click on it
+and it will bring it to the movie profile, there you are simple given a comment box and  a star rating, from 1 to 5, so you can share your opinion on the movie, by either writing a comment, giving a star rating, or both. 
+
 
 ## Features
 
